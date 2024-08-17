@@ -387,4 +387,4 @@ This project is possible thanks to our collaboration with [mixedbread.ai](https:
 ### Special thanks to Hugging Face and all the authors mentioned at the top for their great initiative .
 
 ### Do visit:
-   - [Semalex evalaution metric for RAG system](https://pypi.org/project/SEMALEX/) to use this amazing tool for RAG Evaluation.
+   - [SEMALEX](https://pypi.org/project/SEMALEX/) Evalaution metric for RAG system to use this amazing tool for RAG Evaluation.
