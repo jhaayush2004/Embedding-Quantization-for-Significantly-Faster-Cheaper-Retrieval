@@ -383,3 +383,5 @@ This project is possible thanks to our collaboration with [mixedbread.ai](https:
 * https://txt.cohere.com/int8-binary-embeddings/
 * https://qdrant.tech/documentation/guides/quantization
 * https://zilliz.com/learn/scalar-quantization-and-product-quantization
+
+### Special thanks to Hugging Face and all the authors mentioned at the top for their great initiative .
