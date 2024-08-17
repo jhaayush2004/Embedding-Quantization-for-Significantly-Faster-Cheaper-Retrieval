@@ -385,3 +385,6 @@ This project is possible thanks to our collaboration with [mixedbread.ai](https:
 * https://zilliz.com/learn/scalar-quantization-and-product-quantization
 
 ### Special thanks to Hugging Face and all the authors mentioned at the top for their great initiative .
+
+### Do visit:
+   - [Semalex evalaution metric for RAG system](https://pypi.org/project/SEMALEX/) to use this amazing tool for RAG Evaluation.
